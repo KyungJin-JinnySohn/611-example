@@ -1,4 +1,4 @@
 EXAMPLE Project 
 ================
 
-Hi
+Hi! Good afternoon :)
